@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "type": "Music",
+    "title": "Music Course One",
+    "description": "",
+    "coverImage": "https://i.ibb.co/cJcj3jP/music.png",
+    "author": "Mahdi Behi",
+    "link": "https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide",
+    "slug": "music-one",
+    "wsl": [
+      "Hello",
+      "Music",
+      "Course"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "2",
+    "type": "Music",
+    "title": "Music Course Two",
+    "description": "",
+    "coverImage": "https://i.ibb.co/cJcj3jP/music.png",
+    "author": "Mahdi Behi",
+    "link": "https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide",
+    "slug": "music-two",
+    "wsl": [
+      "Hello",
+      "Music",
+      "Course"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "3",
+    "type": "Music",
+    "title": "Music Course Three",
+    "description": "",
+    "coverImage": "https://i.ibb.co/cJcj3jP/music.png",
+    "author": "Mahdi Behi",
+    "link": "https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide",
+    "slug": "music-three",
+    "wsl": [
+      "Hello",
+      "Music",
+      "Course"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "4",
+    "type": "Music",
+    "title": "Music Course Four",
+    "description": "",
+    "coverImage": "https://i.ibb.co/cJcj3jP/music.png",
+    "author": "Mahdi Behi",
+    "link": "https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide",
+    "slug": "music-four",
+    "wsl": [
+      "Hello",
+      "Music",
+      "Course"
+    ],
+    "createdAt": ""
+  }
+]

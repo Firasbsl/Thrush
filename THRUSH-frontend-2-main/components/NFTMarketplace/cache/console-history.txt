@@ -1,0 +1,43 @@
+npx hardhat test
+feeAccount
+const feeAccount = await marketplace.feeAccount()
+feePercent
+const feePercent= await marketplace.feePercent()
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace", "0x5fbdb2315678afecb367f032d93f642f64180aa3")
+feePercent
+const feePercent= await marketplace.feePercent()
+const feeAccount= await marketplace.feeAccount() 
+feePercent
+const feePercent= await marketplace.feePercent() 
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace", "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9")
+const feePercent= await marketplace.feePercent() 
+const feePercent= await Marketplace.feePercent() 
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace", "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9")
+const feePercent= await marketplace.feePercent() 
+const feePercet= await marketplace.feePercent() 
+const feePercent= await marketplace.feePercent() 
+feePercent
+const feePercent= await marketplace.feePercent() 
+const feePer= await marketplace.feePercent()
+const fe
+const feePercent= await marketplace.feePercent() 
+const feePercent= await Marketplace.feePercent() 
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace", "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9")
+.exit
+exit.
+symbol
+const symbol = await contract.symbol()
+name
+const name = await contract.name()
+const tokenCount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT", "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+.exit
+const tokenCount = await contract.tokenCount()
+NFT
+nft
+tokenCount
+const contract = await ethers.getContractAt("NFT", "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
